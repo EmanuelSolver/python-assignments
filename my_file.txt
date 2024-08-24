@@ -1,0 +1,3 @@
+Hello, there!
+I love Python programming
+Number example: 12345
